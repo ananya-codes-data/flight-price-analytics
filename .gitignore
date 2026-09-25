@@ -219,6 +219,7 @@ __marimo__/
 
 # Data
 data/*.csv
+!data/.gitkeep
 
 # Outputs (generated charts) — keep folder, ignore contents
 outputs/*.png
